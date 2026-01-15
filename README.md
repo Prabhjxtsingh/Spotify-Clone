@@ -109,7 +109,7 @@ node -v
 npm -v
 
 📥 Installation
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/Prabhjxtsingh/Spotify-Clone
 cd spotify-clone
 npm install
 
